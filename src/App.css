@@ -68,6 +68,14 @@ button:focus,
 button:active{
     outline:none;
 }
+button:active{
+    background-color: rgba(266, 266, 266, .2);
+}
+button:hover{
+    background-color: rgb(159, 159, 180);
+}
 .hightlighte{
-    background-color: #56cbdb;
+    background-color: rgb(176, 177, 238);
+    font-size: 28px;
+    color: rgb(9, 8, 85);
 }
